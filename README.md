@@ -6,18 +6,6 @@ The **Health Clinic Appointment Management System (HCAMS)** is a full-stack web 
 
 HCAMS is tailored to the requirements of the fictional **City Health Clinic**, aiming to solve real-world problems such as appointment clashes, inefficient record keeping, and lack of centralized digital systems.
 
----
-## 📧 Module Leader: Dr. Amina Souag (amina.souag@canterbury.ac.uk)
-
-## 👥 Team Members
-
-- Ayoub Elghayati 
-- Osama Sharkia
-- Rifat Hossain
-- Inigo Basagoiti
-- Alex Fraile Villamil
-
----
 
 ## 🎯 Key Objectives
 
@@ -84,11 +72,7 @@ python manage.py runserver
 ```
 The backend will run at: http://localhost:8000
 
-### Fix the email-notification function (due to security reasons I couldn't commit the key but i managed to find a workaround)
-- Copy the content of the file in backend/key.txt
-- Navigate to backend/backend/settings.py ( line 147 )
-- Paste the content after the dot (SG.content here)
-- Save the changes
+
   
 ### 3️⃣ Set Up the Frontend (Terminal 2)
 ```bash
@@ -142,7 +126,4 @@ Using MongoDB Atlas for cloud-based data persistence
 Adding environment variables for secure credentials
 
 
-
-## 📄 License
-This repository is provided for academic purposes only as part of coursework submission to CCCU. Redistribution or reuse without permission is strictly prohibited.
 
