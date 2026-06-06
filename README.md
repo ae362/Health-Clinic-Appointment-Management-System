@@ -2,7 +2,7 @@
 
 ## 📋 Project Overview
 
-The **Health Clinic Appointment Management System (HCAMS)** is a full-stack web application designed and implemented as part of the *Advanced Databases and Big Data (U14440)* module. This system supports both administrative and patient-facing functionality to improve the efficiency and usability of clinical appointment scheduling.
+The **Health Clinic Appointment Management System (HCAMS)** is a full-stack web application . This system supports both administrative and patient-facing functionality to improve the efficiency and usability of clinical appointment scheduling.
 
 HCAMS is tailored to the requirements of the fictional **City Health Clinic**, aiming to solve real-world problems such as appointment clashes, inefficient record keeping, and lack of centralized digital systems.
 
